@@ -1,0 +1,1 @@
+# translater_exampe_django1.11
